@@ -1,7 +1,5 @@
-<span font-size="18px">
-### Hi there 👋  <br/> <br/>
-</span>
 
+### Hi there 👋  <br/> <br/>
 <span font-size="18px">
 😄 My name is Nicoletta and I am a hybrid designer-coder from the Netherlands/Italy. <br/>
 🌱 Simply out of passion I thought myself how to code. <br/>
